@@ -54,11 +54,12 @@ You can use Kvasir-SEG dataset for training, or CVC-clinic DB for training.
 
 ## Results
 
-The IOU score on SOTA for Kvasir-SEG: 
+The IOU score on SOTA for Kvasir-SEG, this is our best model: 
 
-- IOU score: 0.8201
-
-- Dice loss: 0.8802
+| Model | IOU | Dice Coef |
+| --- | --- | --- |
+| PEFNet | 82.01 | 88.02 |
+| PEFNet + Multi-Kernel | 81.63 | 88.18|
 
 
 ## Citation
