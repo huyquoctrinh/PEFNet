@@ -1,0 +1,5 @@
+route : './benchmark_data' 
+model_path : 'best_model.h5' 
+img_size : 256 
+BATCH_SIZE : 32  
+model_name : 'efficientnetv2-b0'

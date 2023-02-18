@@ -1,0 +1,22 @@
+Data:
+
+    img_size: 256
+    route: '../input/kvasirseg/Kvasir-SEG'
+    X_path: '/Kvasir-SEG/images/'
+    Y_path: '/Kvasir-SEG/masks/'
+    
+
+Hyperparameter:
+
+    valid_size : 0.2
+    test_size : 0.25
+    SEED : 1024
+    BATCH_SIZE : 128
+    epochs : 500
+    max_lr: 0.001
+    min_lr: 0.000001
+    save_weights_only: True
+
+Model:
+
+  save_path: 'best_model.h5'

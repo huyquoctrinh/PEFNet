@@ -1,0 +1,8 @@
+keras_cv_attention_models==2.11
+tensorflow==2.9.0
+opencv-python
+Pillow
+numpy
+matplotlib
+sklearn
+scipy
