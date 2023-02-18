@@ -71,7 +71,7 @@ The IOU score on SOTA for Kvasir-SEG, this is our best model:
 | PEFNet (MMM 2023) | 82.01 | 88.02 |
 | PEFNet + Multi-Kernel (RIVF 2022) | 81.63 | 88.18|
 
-Our Visualization Sample:
+Some results of visualization:
 
 <div align="center">
     <a href="./">
