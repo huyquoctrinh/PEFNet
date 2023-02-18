@@ -6,6 +6,16 @@ This repo is the official implementation for:
 
 Detail of each model modules can be found in original paper. Please citation if you use our implementation for research purpose.
 
+## Overall architecture
+
+Architecutre of PEFNet and PEFNet with Multi-Kernel module:
+
+<div align="center">
+    <a href="./">
+        <img src="full.png" width="79%"/>
+    </a>
+</div>
+
 ## Installation
 
 Our implementation is on ``` Python 3.9 ``` , please make sure to config your environment compatible with the requirements.
