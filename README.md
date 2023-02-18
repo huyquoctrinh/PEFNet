@@ -1,4 +1,4 @@
-# PEFNet
+# PEFNet: Positional Embedding Feature for Polyp segmentation
 
 This repo is the official implementation for:
 1. [Multi Kernel Positional Embedding ConvNeXt for Polyp Segmentation](https://ieeexplore.ieee.org/document/10013883) (RIVF 2022).
