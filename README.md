@@ -2,7 +2,7 @@
 
 This repo is the official implementation for:
 1. [Multi Kernel Positional Embedding ConvNeXt for Polyp Segmentation](https://ieeexplore.ieee.org/document/10013883) (RIVF 2022).
-2. PEFNet: Positional Embedding Feature for Polyp Segmentation (MMM 2023).
+2. [PEFNet: Positional Embedding Feature for Polyp Segmentation] (https://link.springer.com/chapter/10.1007/978-3-031-27818-1_20) (MMM 2023).
 
 Detail of each model modules can be found in original paper. Please citation if you use our implementation for research purpose.
 
@@ -89,6 +89,15 @@ Some results of visualization:
   pages={731--736},
   year={2022},
   organization={IEEE}
+}
+
+@inproceedings{10.1007/978-3-031-27818-1_20,
+  title={PEFNet: Positional Embedding Feature for Polyp Segmentation},
+  author={Nguyen-Mau, Trong-Hieu and Trinh, Quoc-Huy and Bui, Nhat-Tan and Thi, Phuoc-Thao Vo and Nguyen, Minh-Van and Cao, Xuan-Nam and Tran, Minh-Triet and Nguyen, Hai-Dang},
+  booktitle={MultiMedia Modeling},
+  pages={240--251},
+  year={2023},
+  publisher={Springer Nature Switzerland}
 }
 ```
 
